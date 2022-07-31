@@ -19,12 +19,17 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button was presed");
+            MessageBox.Show("Button1 was presed");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Button2 was presed");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button3 was presed");
         }
     }
 }
