@@ -36,5 +36,10 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("Button4 was presed");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button5 was presed");
+        }
     }
 }
